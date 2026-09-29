@@ -16,5 +16,5 @@ I am a 3rd-year computer science student in Spain. While my university degree fo
 
 ### Contact
 
-* **LinkedIn:** [MyProfile](www.linkedin.com/in/kye-rogers-dev)
-* **Email:** [MyEmail](alu0101716374@ull.edu.es)
+* **LinkedIn:** www.linkedin.com/in/kye-rogers-dev
+* **Email:** alu0101716374@ull.edu.es
