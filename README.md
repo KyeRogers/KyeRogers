@@ -8,6 +8,11 @@ I am a 3rd-year computer science student in Spain. While my university degree fo
 * **Building side projects:** I spend my free time building new projects to help advance my skill at producing quality apps/pages, and to learn more about the languages i use and the fields im interested in.
 * **University coursework:** Balancing my third-year computer engineering labs and exams.
 
+###  Awards & Highlights
+
+- **1st Place – Hackathon Talento Canario 2026 (Hospiten Challenge)**
+  Co-designed and prototyped **[Hospiten Contigo](https://stefanpuerner.github.io/hospiten-contigo)**, an AI-driven patient companion integrated natively into Hospiten's mobile app.
+
 ### Technologies
 
 * **University Stack:** C++, Data Structures, Algorithms, Linux
